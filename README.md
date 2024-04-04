@@ -6,11 +6,11 @@
 ![Yo](https://github.com/pdepjm/2024-tp0-presentacion-Juanter134/assets/149621806/2c00842b-8d51-43ed-b910-92794f2560a1)
 # Sobre mí
 Actualmente tengo 19 años y me encuentro en el segundo año de la carrera.
-Si bien vengo de un bachiller en ciencias sociales y humanidades, es decir, algo que no tiene nada que ver con Ingeniería es Sistemas de Información me encuentro bastante satisfecho con la desición que tomé (a pesar del sufrimiento).
+Si bien vengo de un bachiller en ciencias sociales y humanidades, es decir, algo que no tiene nada que ver con Ingeniería es Sistemas de Información me encuentro bastante satisfecho con la desición que tomé (a pesar del sufrimiento). La carrera la elegí porque siempre me gustaron las matemáticas y me pareció una propuesta interesante el estudiar algo relacionado a eso que encima tratara de programación.
 # Otros datos
 * Mido 1,90m y me gusta jugar basquét (casual, nada serio), actualmente estoy practicando natación.
 * Tengo una mini colección de cubos de rubik y otros tipos de puzzles.
-* Me encanta escuchar música (cualquier género), para referencia tengo una playlist de 3600+ canciones que sigue creciendo en tamaño día a día.
+* Me encanta escuchar música (cualquier género aunque si tuviera que elegir sería rock, pop y electronica), para referencia tengo una playlist de 3600+ canciones que sigue creciendo en tamaño día a día.
 * Me gusta el dibujo digital pero últimamente lo dejé de lado por tiempos.
 * Aguanten los perros! (tengo alergia a los gatos)
 # Fotos como referencias
